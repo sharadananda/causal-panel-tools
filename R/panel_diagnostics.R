@@ -1,4 +1,3 @@
-```r
 panel_check <- function(data, id, time){
 
   # Number of unique units
